@@ -1,6 +1,4 @@
-# single-cell-pbl
-Single Cell Project Based Learning (PBL)
-
+# Single Cell Project Based Learning (PBL)
 
 The proposed educational plan for single cell RNA-seq data analysis project will be done using the Project-based learning (a.k.a. PBL) approach. This way, rather than having lectures on a topic and defined set of instructions and pre-given steps to follow (which focus on passive individual learning), you are required to learn the topic in a more **active** and **dynamic** way in order to solve the data analysis tasks as a group. Therefore, each group is provided with:
 
@@ -69,16 +67,19 @@ In the end, each group is expected to have 1 report file with all analysis steps
 <br/>
 
 #### Staying On Task During Project-Based Learning
+
 Usage of boards to define tasks
 
 <br/>
 
 #### Grading
+
 Documentation reporting the steps and justifying the decisions in the analysis
 
 <br/>
 
 #### Challenges
+
 -	Time 12 h
 -	How to make the group work collaboratively (1 report, but 4 people working in their Rstudio)
 -	How to divide tasks (reporting, writing code, testing, etc)
@@ -86,13 +87,15 @@ Documentation reporting the steps and justifying the decisions in the analysis
 <br/>
 
 #### Glossary of terms
+
 -	Create a glossary that the students can refer to and use as guide
 -	Maybe later create the general glossary with the main text concepts (but can be imported into the specify glossaries for each course)
 
 <br/>
 
 #### Reference Material:
-https://www.edutopia.org/video/5-keys-rigorous-project-based-learning
-https://www.edutopia.org/article/project-based-learning-and-research-paper
-https://www.edutopia.org/video/staying-task-during-project-based-learning
-https://www.edutopia.org/article/3-common-pbl-problems-and-solutions
+
+- https://www.edutopia.org/video/5-keys-rigorous-project-based-learning
+- https://www.edutopia.org/article/project-based-learning-and-research-paper
+- https://www.edutopia.org/video/staying-task-during-project-based-learning
+- https://www.edutopia.org/article/3-common-pbl-problems-and-solutions
